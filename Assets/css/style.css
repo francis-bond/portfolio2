@@ -6,3 +6,41 @@
     --gold: #F2D272;
     --darkgold: #F2C46D;
   }
+
+.nav-link {
+  color: var(--gold);
+}
+
+.dark {
+  background-color: var(--darkblue);
+  color: var(--gold);
+}
+
+.lightblue {
+  background-color: var(--lightblue);
+}
+
+.jumbotron {
+  background-color: var(--blue);
+  color: var(--darkgold);
+}
+
+/* .row{
+  margin-bottom: 30px;
+} */
+
+/* .card {
+  margin: 5px;
+} */
+
+.navbar {
+  background-color: var(--darkblue);
+  color: var(--gold);
+}
+
+body {
+  background-color: var(--lightblue);
+}
+main {
+  color: var(--gold);
+}
